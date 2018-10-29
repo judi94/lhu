@@ -14,3 +14,7 @@ msgText:setFillColor( 0.2, 0.4, 1.0 )
 local msgText1 = display.newText( "D1064422304_OVR1", world.x, world.y+200, native.systemFont, 32 )
 msgText1:setFillColor( 0.2, 0.7, 2.0 )
 
+local msgText1 = display.newText( "D1064422304_OVR2", world.x, world.y+240, native.systemFont, 32 )
+msgText1:setFillColor( 0.9, 1.7, 4.0 )
+
+
