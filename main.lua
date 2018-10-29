@@ -8,5 +8,5 @@ local world = display.newImageRect( "world.png", 250, 250 )
 world.x = display.contentCenterX
 world.y = display.contentCenterY - 30
 
-local msgText = display.newText( "Hello, world!", world.x, world.y+160, native.systemFont, 32 )
-msgText:setFillColor( 0.2, 0.6, 0.8 )
+local msgText = display.newText( "D1064422304_OVR", world.x, world.y+160, native.systemFont, 32 )
+msgText:setFillColor( 0.2, 0.4, 1.0 )
